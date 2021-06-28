@@ -12,6 +12,7 @@
           </div>
 
           <form id="stock-form" name="stock-form" v-on:submit.prevent="submit">
+            
             <div class="flex flex-col pt-6">
               <label for="id">ID</label>
               <input
